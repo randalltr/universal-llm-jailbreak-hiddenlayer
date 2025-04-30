@@ -653,4 +653,4 @@ If you're interested in:
 - Jailbreaking GPT, Claude, and Gemini
 - Adversarial AI research
 
-Then ⭐ **Star this repo** and **follow me** here on GitHub for more deep dives into how we break (and fix) the future of AI.
+Then ⭐ **Star this repo** and [**follow me**](https://github.com/randalltr) here on GitHub for more deep dives into how we break (and fix) the future of AI.
